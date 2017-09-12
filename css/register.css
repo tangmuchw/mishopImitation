@@ -1,0 +1,175 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background-color: #F9F9F9;
+}
+
+a {
+	text-decoration: none;
+}
+
+#wrapper {
+	width: 100%;
+	min-height: 100%;
+	height: auto;
+}
+
+#wrap {
+	width: 1349px;
+	padding-top: 40px;
+	margin: 0px auto;
+}
+
+#layout {
+	width: 786px;
+	height: 472px;
+	background-color: white;
+	margin: 0px auto;
+	/*border: 1px solid;*/
+	padding: 0px 34px 30px 34px;
+	/*text-align: center;*/
+}
+
+#layout input {
+	outline: none;
+}
+
+.containerRegister {
+	width: 332px;
+	margin: 0px auto;
+}
+
+.containerRegister div {
+	text-align: center;
+}
+
+.title {
+	font-size: 30px;
+	font-weight: normal;
+	margin: 40px 0px 30px 0px;
+}
+
+.selectArea {
+	width: 350px;
+	height: 40px;
+	font-size: 12px;
+	cursor: pointer;
+	outline: none;
+	padding-left: 14px;
+	appearance: none!important;
+	-moz-appearance: none!important;
+	-webkit-appearance: none!important;
+	border: 1px solid #E8E8E8;
+	background: url(../img/register/select-bg.png) right center no-repeat;
+	margin-bottom: 16px;
+}
+
+#layout #regNum {
+	width: 310px;
+	height: 20px;
+	padding: 10px;
+	border: 1px solid #E8E8E8;
+	margin-bottom: 8px;
+}
+
+#layout #code {
+	width: 180px;
+	height: 20px;
+	padding: 10px;
+	border: 1px solid #E8E8E8;
+	margin-top: 8px;
+}
+
+.codeImg img {
+	vertical-align: middle;
+}
+
+#regBtn {
+	width: 326px;
+	height: 40px;
+	color: #fff;
+	border: 1px solid #FF6700;
+	background-color: #FF6700;
+	margin-top: 20px;
+	cursor: pointer;
+}
+
+.tips {
+	width: 332px;
+	font-size: 12px;
+	color: #A3A3A3;
+	margin-top: 20px;
+}
+
+.tips span a {
+	color: #000;
+}
+
+
+/*警告内容*/
+
+.containerRegister .warning {
+	display: none;
+	width: 332px;
+	font-size: 12px;
+	color: #F56600;
+	/*border: 1px solid;*/
+	text-align: left;
+	margin: 10px 0px;
+}
+
+.warning span {
+	display: inline-block;
+	width: 14px;
+	height: 14px;
+	border: 1px solid #F56600;
+	border-radius: 50%;
+	text-align: center;
+	vertical-align: middle;
+	/*vertical-align: middle;*/
+	background-color: #F56600;
+	color: white;
+	font-size: 12px;
+	margin-right: 5px;
+}
+
+
+/*内容结束*/
+
+#footer {
+	width: 1130px;
+	font-size: 12px;
+	/*border: 1px solid;*/
+	margin: 0px auto;
+	margin-top: 10px;
+	text-align: center;
+}
+
+#help span {
+	display: inline-block;
+	padding: 0px 5px 0px 5px;
+}
+
+#help a {
+	color: #8A75A0;
+}
+
+#help a:hover {
+	color: #524639;
+}
+
+#copy {
+	margin-top: 20px;
+	color: #8A75A0;
+}
+
+#copy a {
+	color: #8A75A0;
+}
+
+#copy a img {
+	vertical-align: bottom;
+}

@@ -1,0 +1,22 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+#main {
+	width: 100%;
+	margin:0px auto;
+	font-family: "微软雅黑";
+}
+
+a {
+	text-decoration: none;
+}
+
+li {
+	list-style-type: none;
+}
+.container {
+	width: 1226px;
+	margin: 0px auto;
+}

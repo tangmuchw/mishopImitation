@@ -1,0 +1,207 @@
+#header {
+				width: 1130px;
+				margin: 0px auto;
+			}
+			/*头部结束*/
+			
+			#login-content {
+				width: 100%;
+				background-color: #14212A;
+			}
+			
+			#login-content>div {
+				width: 1130px;
+				margin: 0px auto;
+				position: relative;
+			}
+			/*登录正文结束*/
+			
+			#login-content #login-form {
+				width: 336px;
+				padding: 20px 32px;
+				background-color: white;
+				position: absolute;
+				top: 40px;
+				right: 0px;
+			}
+			
+			#form-top a:hover {
+				color: #F56600;
+			}
+			
+			#form-nav {
+				margin-bottom: 20px;
+				text-align: center;
+			}
+			
+			#form-nav a:nth-child(1) {
+				color: #F56600;
+			}
+			
+			#form-nav a:nth-child(3) {
+				color: #666666;
+			}
+			
+			#form-nav a {
+				font-size: 27px;
+			}
+			
+			#form-nav a:hover {
+				color: #F56600;
+			}
+			
+			.line {
+				border: 1px solid #E0E0E0;
+				margin: 0px 20px;
+				display: inline-block;
+				height: 30px;
+				vertical-align: bottom;
+			}
+			
+			#form-content {
+				margin-top: 35px;
+				/*border: 1px solid;*/
+				float: left;
+			}
+			
+			#info-input>div {
+				display: none;
+				color: #F56600;
+				font-size: 12px;
+				margin-bottom: 10px;
+			}
+			
+			#info-input>div span {
+				display: inline-block;
+				width: 14px;
+				height: 14px;
+				border: 1px solid #F56600;
+				border-radius: 50%;
+				text-align: center;
+				vertical-align: middle;
+				/*vertical-align: middle;*/
+				background-color: #F56600;
+				color: white;
+				font-size: 12px;
+				margin-right: 5px;
+			}
+			
+			#info-input input {
+				width: 306px;
+				height: 22px;
+				outline: none;
+				margin-bottom: 15px;
+				padding: 13px 16px 13px 14px;
+			}
+			
+			#login-form #login-btn input {
+				width: 336px;
+				height: 50px;
+				border: none;
+				color: white;
+				font-weight: bold;
+				font-size: 16px;
+				text-align: center;
+				background-color: #F56600;
+				cursor: pointer;
+				margin: 0px;
+			}
+			
+			#login-btn {
+				text-align: center;
+				margin: 5px 0px 15px 0px;
+			}
+			
+			#reg-foundpwd {
+				text-align: center;
+			}
+			
+			#reg-foundpwd a {
+				color: #999999;
+				font-size: 12px;
+			}
+			
+			#reg-foundpwd .line2 {
+				border: 1px solid #E0E0E0;
+				margin: 0px 20px;
+				display: inline-block;
+				height: 10px;
+				vertical-align: bottom;
+			}
+			
+			#form-bottom {
+				margin-top: 100px;
+				overflow: hidden;
+			}
+			
+			#form-bottom fieldset {
+				border: 1px solid #E0E0E0;
+				border-left: none;
+				border-right: none;
+				border-bottom: none;
+				text-align: center;
+				color: #BBBBBB;
+				font-size: 14px;
+			}
+			
+			#form-bottom ul {
+				padding: 10px 10px 0px 30px;
+			}
+			
+			#form-bottom li {
+				float: left;
+				padding: 0px 15px;
+			}
+			/*表单内容结束*/
+			
+			#scancode {
+				width: 340px;
+				height: 225px;
+				padding: 100px 0px 73px 0px;
+				text-align: center;
+				color: #75757D;
+				font-size: 12px;
+				/*border: 1px solid;*/
+				display: none;
+				float: left;
+			}
+			
+			#scancode span {
+				color: #F56600;
+			}
+			/*登录表单结束*/
+			
+			#footer {
+				width: 1130px;
+				font-size: 12px;
+				/*border: 1px solid;*/
+				margin: 0px auto;
+				margin-top: 100px;
+				text-align: center;
+			}
+			
+			#help span {
+				display: inline-block;
+				padding: 0px 5px 0px 5px;
+			}
+			
+			#help a {
+				color: #8A75A0;
+			}
+			
+			#help a:hover {
+				color: #524639;
+			}
+			
+			#copy {
+				margin-top: 20px;
+				color: #8A75A0;
+			}
+			
+			#copy a {
+				color: #8A75A0;
+			}
+			
+			#copy a img {
+				vertical-align: bottom;
+			}
